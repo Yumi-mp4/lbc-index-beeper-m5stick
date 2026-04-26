@@ -5,7 +5,7 @@ Limbus Company–inspired beeper using M5GFX.
 ## Pages
 - Welcome
 - Prescript
-- Hermes (Yes/N o)
+- Hermes (Yes/No)
 - Tyche (D20 roll)
 
 ## Controls
