@@ -18,9 +18,9 @@ Limbus Company–inspired beeper using M5GFX.
 - Any ESP32 device compatible with M5GFX (may require adjustments)
 
 ## To-do 
-[ ] Reorganize code structure
-[ ] Add -redacted-
-[ ] Fix mess in file tree
+- [ ] Reorganize code structure
+- [ ] Add -redacted-
+- [ ] Fix mess in file tree
 
 &nbsp;  
 &nbsp;  
